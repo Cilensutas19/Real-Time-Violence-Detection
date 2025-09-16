@@ -79,8 +79,7 @@ pip install Flask-Migrate
 <p>
 
 <p align="center">
-<img src="
-website\static\images\ana_sayfa.jpg" alt="logo" width="400" height="240">
+<img src="website\static\images\ana_sayfa.jpg" alt="logo" width="400" height="240">
 <p>
 
                                                                                       
